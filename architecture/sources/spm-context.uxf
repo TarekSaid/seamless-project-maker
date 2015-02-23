@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="13.2">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>270</x>
+      <y>200</y>
+      <w>200</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>symbol=component
+spm-core-api</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>490</x>
+      <y>200</y>
+      <w>200</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>symbol=component
+spm-designer-api</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>270</x>
+      <y>320</y>
+      <w>200</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>symbol=component
+spm-interface-api</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
